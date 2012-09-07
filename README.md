@@ -1,0 +1,4 @@
+DiscountMA
+==========
+
+Discount Management Application
